@@ -40,6 +40,9 @@
     "sweetalert": "^2.1.2",
     "web-vitals": "^1.1.1"
   },
+  "engines": {
+    "node": "15.6.0"
+  },
   "scripts": {
     "start": "node index.js",
     "build": "react-scripts build",
